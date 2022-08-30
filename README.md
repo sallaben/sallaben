@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hello!
 
-- 🔭 I’m currently working on ... Svelte Kit, AWS
-- 🌱 I’m currently learning ... Data Science & AI/ML
-
-Email if you have a cool idea!
+- 🤟 Understanding is my passion
+- 📌 My day job involves AWS, Typescript, sometimes SvelteKit
+- 🧪 "Stay Tuned" ...
